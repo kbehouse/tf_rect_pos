@@ -31,6 +31,11 @@ Test the model, you could move mouse ***Cursor*** in the window, and save to val
 ```bash
 python3 validation_rect_pos.py
 ```
+## Result
+
+Loss <= 2.0 pixel
+
+Error between predict and target rectangle in 2 pixel average  
 
 ## Acknowledgements
 [GUI origin by MorvanZhou](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/experiments/Robot_arm)
